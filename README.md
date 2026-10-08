@@ -1,6 +1,6 @@
 # Hi, I'm Lowe Tingua 🥊💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cameroonian+Web+Developer;Amateur+Boxer+%40+Francis+Ngannou+Foundation;Exploring+Systems.+Breaking+Things.+Building+Better." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cameroonian+Web+Developer;Amateur+Boxer+%40+Franci[...]
 
 ### Young Dev from Douala, Cameroon 🇨🇲 | Fighter in the Ring & in Code
 
@@ -66,4 +66,4 @@ Both taught me the same thing: **You don't win by throwing random punches. You w
   <b>Francis Ngannou Foundation 🥊 | 237 🇨🇲</b>
 </p>
 
-[Profile Views](https://komarev.com/ghpvc/?username=crockordie&color=00D9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=crockordie&color=00D9FF&style=flat-square)
