@@ -1,6 +1,8 @@
 # Hi, I'm Lowe Tingua 🥊💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cameroonian+Web+Developer;Amateur+Boxer+%40+Franci[...]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cameroonian+Web+Developer;Amateur+Boxer;Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</p>
 
 ### Young Dev from Douala, Cameroon 🇨🇲 | Fighter in the Ring & in Code
 
